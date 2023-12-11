@@ -1,6 +1,16 @@
 <template>
     <section class="default-width">
         <div class="hero-grid">
+          
+            <div class="hero-grid-item hero-image hero-image--mobile">
+                <picture>
+                    <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+
+                    <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+
+                    <img src="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" alt="Billede af mig - Random user" />
+                </picture>
+            </div>
 
             <div class="hero-grid-item hero-grid-text">
                 <h1 class="section-title">
@@ -19,6 +29,15 @@
                     while contributing in web development.
                 </p>
             </div>
+            <div class="hero-grid-item hero-image hero-image--desktop">
+                  <picture>
+                      <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+  
+                      <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+  
+                      <img src="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" alt="Image of me" />
+                  </picture>
+              </div>
         </div>
     </section>
 </template>
