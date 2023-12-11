@@ -4,11 +4,11 @@
           
             <div class="hero-grid-item hero-image hero-image--mobile">
                 <picture>
-                    <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
+                    <source srcset="@assets/nuxt-portfolio-img.webp" type="image/webp" />
 
-                    <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
+                    <source srcset="@assets/nuxt-portfolio-img.webp" type="image/webp" />
 
-                    <img src="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" alt="Billede af mig - Random user" />
+                    <img src="@assets/nuxt-portfolio-img.webp" alt="Billede af mig - Random user" />
                 </picture>
             </div>
 
@@ -31,11 +31,11 @@
             </div>
             <div class="hero-grid-item hero-image hero-image--desktop">
                   <picture>
-                      <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
+                      <source srcset="@assets/nuxt-portfolio-img.webp" type="image/webp" />
   
-                      <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
+                      <source srcset="@assets/nuxt-portfolio-img.webp" type="image/webp" />
   
-                      <img src="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" alt="Image of me" />
+                      <img src="@assets/nuxt-portfolio-img.webp" alt="Image of me" />
                   </picture>
               </div>
         </div>
