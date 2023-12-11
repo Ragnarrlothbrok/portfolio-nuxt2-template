@@ -4,11 +4,11 @@
           
             <div class="hero-grid-item hero-image hero-image--mobile">
                 <picture>
-                    <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+                    <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
 
-                    <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+                    <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
 
-                    <img src="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" alt="Billede af mig - Random user" />
+                    <img src="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" alt="Billede af mig - Random user" />
                 </picture>
             </div>
 
@@ -31,11 +31,11 @@
             </div>
             <div class="hero-grid-item hero-image hero-image--desktop">
                   <picture>
-                      <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+                      <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
   
-                      <source srcset="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" type="image/jpg" />
+                      <source srcset="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" type="image/png" />
   
-                      <img src="https://framerusercontent.com/images/gMHfU4xaMiq7jHpCpTNtqnK6ulQ.jpg" alt="Image of me" />
+                      <img src="https://static.vecteezy.com/system/resources/previews/029/711/176/non_2x/developer-with-ai-generated-free-png.png" alt="Image of me" />
                   </picture>
               </div>
         </div>
