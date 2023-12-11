@@ -1,12 +1,6 @@
 <template>
     <div>
         <Hero @changeHighlight="randomHighlightColor" />
-
-        <Projects />
-
-        <!-- <Skills @changeHighlight="randomHighlightColor" /> -->
-
-        <Contact />
     </div>
 </template>
 
