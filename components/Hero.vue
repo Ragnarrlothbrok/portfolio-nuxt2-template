@@ -1,15 +1,6 @@
 <template>
     <section class="default-width">
         <div class="hero-grid">
-            <div class="hero-grid-item hero-image hero-image--mobile">
-                <picture>
-                    <source srcset="@/assets/images/personal/cirkelbillede1.webp" type="image/webp" />
-
-                    <source srcset="@/assets/images/personal/cirkelbillede1.png" type="image/png" />
-
-                    <img src="@/assets/images/personal/cirkelbillede1.png" alt="Billede af mig - Mads Hougesen" />
-                </picture>
-            </div>
 
             <div class="hero-grid-item hero-grid-text">
                 <h1 class="section-title">
@@ -24,21 +15,9 @@
 
                 <p>
                     I currently work @
-                    <a href="https://cavea.io" rel="noreferrer noopener" target="_blank">cavea.io</a>
-                    while studying for my bachelor's degree in web development.
+                    <a href="https://random.io" rel="noreferrer noopener" target="_blank">Random.io</a>
+                    while contributing in web development.
                 </p>
-
-                <SocialIcons class="hero-icons" />
-            </div>
-
-            <div class="hero-grid-item hero-image hero-image--desktop">
-                <picture>
-                    <source srcset="@/assets/images/personal/cirkelbillede1.webp" type="image/webp" />
-
-                    <source srcset="@/assets/images/personal/cirkelbillede1.png" type="image/png" />
-
-                    <img src="@/assets/images/personal/cirkelbillede1.png" alt="Image of me - Mads Hougesen" />
-                </picture>
             </div>
         </div>
     </section>
