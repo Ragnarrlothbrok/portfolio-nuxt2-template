@@ -1,7 +1,7 @@
 <template>
     <div class="nav default-width">
         <a href="#" class="logo">
-            <img src="@/assets/images/personal/logo3.png" alt="Mads Hougesen Logo" />
+            Portfolio site
         </a>
     </div>
 </template>
@@ -26,7 +26,6 @@ $tabletBreakpoint: 1367px;
         font-size: 2em;
         margin-top: 10px;
         text-decoration: none;
-        filter: invert(1);
     }
 
     @media screen and (min-width: $tabletBreakpoint) {
